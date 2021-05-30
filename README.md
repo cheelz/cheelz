@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Chee Lit Zhi
+- 👀 I’m interested in using programming to make some cool projects
+- 🌱 I’m currently studying Electrical & Electronic Engineering in Curtin University Malaysia
